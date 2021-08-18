@@ -1,0 +1,14 @@
+"Games"
+{
+	"csgo"
+	{
+		"Offsets"
+		{
+			"CGameRules::ShouldCollide"
+			{
+				"windows"	"28"
+				"linux"		"29"
+			}
+		}
+	}
+}
